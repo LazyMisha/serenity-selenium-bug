@@ -36,5 +36,6 @@ class SearchTest extends BaseClass {
         searchSteps.searchInputShouldBeVisible()
         // on this step bug with infinite loop in Selenium
         searchPage.click()
+        // TODO: searchSteps.click() works
     }
 }

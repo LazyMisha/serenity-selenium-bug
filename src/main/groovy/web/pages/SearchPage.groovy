@@ -15,7 +15,6 @@ class SearchPage extends BasePage {
     }
 
     void searchInputShouldBeVisible() {
-        customWaitFor(1) {true}
         $("//input[@name='q']").shouldNotBePresent()
         $("//input[@name='q']").shouldBePresent()
     }
