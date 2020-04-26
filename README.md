@@ -1,3 +1,7 @@
+# discussing with Serenity team
+
+- https://github.com/serenity-bdd/serenity-core/issues/2055
+
 # discussing with Selenium team
 
 - https://github.com/SeleniumHQ/selenium/pull/8233
